@@ -6,4 +6,4 @@
  * Time: 12:31 PM
  */
 
-echo 'testing changes creating conflict from master';
+echo 'testing changes creating conflict from master branch';
