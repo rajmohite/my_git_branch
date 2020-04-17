@@ -6,4 +6,4 @@
  * Time: 12:31 PM
  */
 
-echo 'testing';
+echo 'testing release';
