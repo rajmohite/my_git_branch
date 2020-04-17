@@ -7,3 +7,5 @@
  */
 
 echo 'testing changes creating conflict from master branch.......';
+
+echo 'my program';
